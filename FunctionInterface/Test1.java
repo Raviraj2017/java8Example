@@ -1,3 +1,5 @@
+import Intref1;
+
 @FunctionalInterface
 interface Intref1 {
     // void add(int a,int b);
