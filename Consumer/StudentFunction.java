@@ -55,6 +55,7 @@ class StudentFunction {
             if (p.test(student)) {
                 c.accept(student);
             }
+            
         }
 
     }
